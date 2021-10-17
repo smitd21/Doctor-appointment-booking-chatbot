@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+Mono:wght@700&display=swap');
+* {
+  margin: 0;
+  padding: 0;
+}
+.navbar {
+  background-color: rgb(43 48 62);
+  height: 60px;
+  width: 100%;
+  font-family: 'Noto Sans Mono', monospace;
+  color: white;
+  display: flex;
+  align-items: center;
+}
+.navbar .text {
+  margin: 20px;
+}
+.container {
+  display: flex;
+  width: 100%;
+  height: 100%;
+}
